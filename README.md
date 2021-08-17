@@ -11,3 +11,7 @@ I will:
 1. Learn how frequency counter solutions are implemented in golang, and identify what aspects I'll need to change for my problem.
 2. Choose how to introduce the Beker/Piper frequencies to my problem. How to store them so I can compare them against the results of my frequency counter?
 3. Manage edge cases. An easy but maybe not as powerful way would be to manage against length of text.
+
+Things I'm not worrying about yet:
+
+1. coercing capital letters and filtering out non-letters
